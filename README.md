@@ -331,5 +331,3 @@ git push -u origin main
 - 定期更新代码和文档
 - 响应Issues和Pull Requests
 - 考虑添加CI/CD流程（如GitHub Actions进行自动测试）
-
-现在你的文件完整性监控工具已经发布到GitHub，可以分享给其他人使用了！
